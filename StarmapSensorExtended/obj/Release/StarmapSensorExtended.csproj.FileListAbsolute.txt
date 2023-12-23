@@ -1,0 +1,17 @@
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\mod.yaml
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\mod_info.yaml
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\StarmapSensorExtended.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\StarmapSensorExtended.pdb
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\0Harmony.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\Assembly-CSharp.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\UnityEngine.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\UnityEngine.UI.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\Unity.TextMeshPro.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\obj\Release\StarmapSensorExtended.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\obj\Release\StarmapSensorExtended.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\obj\Release\StarmapSensorExtended.csproj.CopyComplete
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\obj\Release\StarmapSensorExtended.dll
+C:\Users\Peter\source\repos\ONI mods\StarmapSensorExtended\obj\Release\StarmapSensorExtended.pdb

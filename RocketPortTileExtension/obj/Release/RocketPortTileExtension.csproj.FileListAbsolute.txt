@@ -1,0 +1,15 @@
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\RocketPortTileExtension.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\RocketPortTileExtension.pdb
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\0Harmony.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\Assembly-CSharp.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\UnityEngine.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\UnityEngine.UI.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\Unity.TextMeshPro.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\obj\Release\RocketPortTileExtension.csproj.AssemblyReference.cache
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\obj\Release\RocketPortTileExtension.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\obj\Release\RocketPortTileExtension.csproj.CopyComplete
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\obj\Release\RocketPortTileExtension.dll
+C:\Users\Peter\source\repos\ONI mods\RocketPortTileExtension\obj\Release\RocketPortTileExtension.pdb
